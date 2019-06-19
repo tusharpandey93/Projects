@@ -1,0 +1,15 @@
+canvas {
+	width: 100%;
+	background: black;
+}
+
+body, html {
+	height: 100%;
+	margin: 0;
+}
+
+h1 {
+	color: red;
+	text-transform: uppercase;
+	font-family: 'Roboto', sans-serif;
+}
